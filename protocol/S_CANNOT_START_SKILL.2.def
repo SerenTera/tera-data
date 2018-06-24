@@ -1,0 +1,3 @@
+#64int skill id with type 0 
+int32 skill
+int32 unk1 # 0?
